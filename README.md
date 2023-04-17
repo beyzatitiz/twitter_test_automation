@@ -1,4 +1,5 @@
 Twitter Test Otomasyonu Projesi
+
 Bu proje, Python ve Selenium kullanarak Twitter üzerinde otomatik test işlemlerini gerçekleştirir. 
 Proje OOP prensipleri kullanılarak geliştirilmiştir ve bir adet class içerir. 
 Bu class altında yer alan methodlar ile Twitter'a giriş yapabilir, belirli hashtagler ile arama yapabilir ve sonuçları dosyaya yazdırabilirsiniz.
