@@ -7,12 +7,17 @@ Bu class altında yer alan methodlar ile Twitter'a giriş yapabilir, belirli has
 Gereksinimler:
 
 Python 3.x
+
 Selenium
+
 WebDriver (ChromeDriver)
 
 Kurulum:
 
 Python 3.x'i indirin ve yükleyin.
+
 Selenium kütüphanesini yükleyin: pip install selenium
+
 WebDriver'ı indirin ve yükleyin.
+
 Proje dosyalarını indirin veya kopyalayın.
