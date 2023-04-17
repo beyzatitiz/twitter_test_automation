@@ -1,23 +1,23 @@
-Twitter Test Otomasyonu Projesi
+# Twitter Test Otomasyonu Projesi
 
-Bu proje, Python ve Selenium kullanarak Twitter üzerinde otomatik test işlemlerini gerçekleştirir. 
-Proje OOP prensipleri kullanılarak geliştirilmiştir ve bir adet class içerir. 
-Bu class altında yer alan methodlar ile Twitter'a giriş yapabilir, belirli hashtagler ile arama yapabilir ve sonuçları dosyaya yazdırabilirsiniz.
+- Bu proje, Python ve Selenium kullanarak Twitter üzerinde otomatik test işlemlerini gerçekleştirir. 
+- Proje OOP prensipleri kullanılarak geliştirilmiştir ve bir adet class içerir. 
+- Bu class altında yer alan methodlar ile Twitter'a giriş yapabilir, belirli hashtagler ile arama yapabilir ve sonuçları dosyaya yazdırabilirsiniz.
 
-Gereksinimler:
+## Gereksinimler:
 
-Python 3.x
+-Python 3.x
 
-Selenium
+-Selenium
 
-WebDriver (ChromeDriver)
+-WebDriver (ChromeDriver)
 
-Kurulum:
+## Kurulum:
 
-Python 3.x'i indirin ve yükleyin.
+- Python 3.x'i indirin ve yükleyin.
 
-Selenium kütüphanesini yükleyin: pip install selenium
+- Selenium kütüphanesini yükleyin: pip install selenium
 
-WebDriver'ı indirin ve yükleyin.
+- WebDriver'ı indirin ve yükleyin.
 
-Proje dosyalarını indirin veya kopyalayın.
+- Proje dosyalarını indirin veya kopyalayın.
